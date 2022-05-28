@@ -1,2 +1,4 @@
-![git 1](./images/gitpractice1.png) 
-![git 2 ](./images/gitpractice2.png) 
+
+## Git Practice
+![git 1](./images/main.png) 
+![git 2 ](./images/remote.png) 
