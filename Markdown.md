@@ -1,9 +1,7 @@
 ## Markdown
-### what is the Markdown?
- markup language that you can use to add formatting elements to plaintext text documents.It’s Easy to Learn and Fast to Use.
-
- to denote a heading, you add a number sign before it (e.g., # Heading One). Or to make a phrase bold, you add two asterisks before and after it (e.g., **this text is bold**). 
-  you can  modify the text like lists, bold, italics, create a heading,etc.
+### What is the Markdown?
+ Markup language that you can use to add formatting elements to plaintext text documents.It’s Easy to Learn and Fast to Use.
+  You can  modify the text like lists, bold, italics, create a heading,display an image, add emoji,create a new paragraph, define relative links, etc.
 
   ## Examples:
   - **create a heading**: add one to six ```#``` symbols before your heading text.
