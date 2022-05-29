@@ -31,3 +31,7 @@ npm consists of:
 - **registry**: is a large public database of JavaScript softwar.
 ## What is TDD?
 **“Test-driven development”**: coding, testing (in the form of writing unit tests) and design (in the form of refactoring).
+## CI/CD:
+CI (Continuous integration) : ensure all changes will integrate
+
+CD (continuous deliver) : is developing to release at any time
