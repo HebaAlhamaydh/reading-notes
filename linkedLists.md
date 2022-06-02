@@ -50,7 +50,7 @@ is a linear sequence of nodes that are connected together.node contains a value 
  1. **First** Find the node that we want to change the pointer of( the last node).
 2. **Next** Create the new node  and set its pointer (to null).
 3. **Last** Direct the last node’s pointer to new node
-## Properties of the Linked List
+
 ## The main operations of a linked list data structure are:
 1. **insertAt**: Inserts element. 
 2. **removeAt**: Removes the element.
