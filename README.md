@@ -11,6 +11,7 @@ it's a repository where I can keep track of my observations and questions from t
 - [Reading class01](./Reading01.md)
 - [Express REST API](Express.md)
 - [linkedLists](linkedLists.md)
+- [SQL vs NoSQL](SQLNOSQL.md)
 
 
 
