@@ -14,6 +14,7 @@ it's a repository where I can keep track of my observations and questions from t
 - [SQL vs NoSQL](SQLNOSQL.md)
 - [Sequelize](Sequelize.md)
 - [Authentication](authentication.md)
+- [JSON Web Token (JWT)](JWT.md)
 
 
 
