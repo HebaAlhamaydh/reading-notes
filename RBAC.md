@@ -20,6 +20,7 @@ With a role defined, you can assign permissions:
 3. Security as a function of organizational structure
 4. Separation of duties (SoD)
 5. Flexibility
+
 **Attribute-based access control (ABAC)**
 Attribute-based access control (ABAC) is an authorization strategy that defines permissions based on attributes.ABAC controls access based on a combination of attributes,as user attributes, resource attributes, attributes associated with the system and environmental attributes.
 ## What Is Attribute-Based Access Control? 
