@@ -91,10 +91,9 @@ return front.value
 //If called when the queue is empty >> exception will be raised.
 ```
 6. **IsEmpty** - returns true when queue is empty otherwise returns false.O(1)
+
 ```
 ALGORITHM isEmpty()
 
 return front = NULL
-
-
 ```
