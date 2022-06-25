@@ -83,13 +83,5 @@ socket.onerror = function(event) {
 };
 ```
 
-Sockets work based on events. These are some reserved events, which can be accessed using the socket object on the server-side:
 
-Connect
-Message
-Disconnect
-Reconnect
-Ping
-Join
-Leave
 
