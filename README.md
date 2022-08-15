@@ -28,3 +28,4 @@ it's a repository where I can keep track of my observations and questions from t
 - [Component Based UI](ComponentBasedUI.md)
 - [Hook](hook.md)
 - [useEffect Hook](effectsHook.md)
+- [use Reducer](useReducer.md)
