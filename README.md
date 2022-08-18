@@ -29,3 +29,4 @@ it's a repository where I can keep track of my observations and questions from t
 - [Hook](hook.md)
 - [useEffect Hook](effectsHook.md)
 - [use Reducer](useReducer.md)
+- [Hashtable](hashTable.md)
