@@ -30,3 +30,4 @@ it's a repository where I can keep track of my observations and questions from t
 - [useEffect Hook](effectsHook.md)
 - [use Reducer](useReducer.md)
 - [Hashtable](hashTable.md)
+- [Context API](contextApi.md)
