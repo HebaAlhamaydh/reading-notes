@@ -36,4 +36,5 @@ it's a repository where I can keep track of my observations and questions from t
 - [API Integration](APIintegration.md)
 - [Redux](./redux.md)
 - [combinedReducer](./combinedReducer.md)
+- [Redux - Asynchronous Actions](./ReduxAsynchronousActions.md)
 
